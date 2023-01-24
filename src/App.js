@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          hehehexxxxxsss! <code>src/App.js</code> and save to reload.
+          SIMIN FIXED AWS DEPLOY! <code>src/App.js</code> FINALLY!
         </p>
         <a
           className="App-link"
